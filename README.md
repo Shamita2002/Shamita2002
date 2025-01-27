@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shamita Shetty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 📫 How to reach me **shamitashetty.@gmail.com**
+- 📫 How to reach me **shamitashetty.0602@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
